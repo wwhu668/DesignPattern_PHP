@@ -1,8 +1,4 @@
-<?php
-// define('BASEDIR', __DIR__);
-// include BASEDIR . '/Frame/loader.php';
-// spl_autoload_register('\\Frame\\Loader::autoload');
-
+<?php 
 class TestIterator implements Iterator
 {
     private $data;
